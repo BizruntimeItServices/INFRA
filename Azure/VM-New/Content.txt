@@ -1,0 +1,16 @@
+Step-by-Step Tutorials
+Learn how to deploy, manage, and monitor Windows VMs on Azure
+1.	Create and manage Windows VMs
+2.	Create and manage VM disks
+3.	Automate VM configuration
+4.	Create custom VM images
+5.	Create highly available VMs
+6.	Create a VM scale set
+7.	Load balance VMs
+8.	Manage VMs with virtual networks
+9.	Backup VMs
+10.	Monitor VMs
+11.	Manage security on VMs
+12.	Create a continuous integration pipeline with Visual Studio
+13.	Install a SQL\IIS\.NET stack
+14.	Secure a web server with SSL
